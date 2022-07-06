@@ -7,6 +7,6 @@ The Wizard Hat Noun was modeled based on concept art by [Jarrod Prince](https://
 
 ![](https://github.com/eyoxin/nounimators/blob/main/nounimators%20rig/nounimators%20rig%20turnaround.gif)
 
-![](https://github.com/eyoxin/nounimators/main/nounimators%20rig/nounshark%20turnaround.gif)
+![](https://github.com/eyoxin/nounimators/blob/main/nounimators%20rig/nounshark%20turnaround.gif)
 
-![](https://github.com/eyoxin/nounimators/main/nounimators%20rig/nounfrog%20turnaround.gif)
+![](https://github.com/eyoxin/nounimators/blob/main/nounimators%20rig/nounfrog%20turnaround.gif)
